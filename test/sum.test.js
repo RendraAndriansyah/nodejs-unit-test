@@ -7,5 +7,5 @@ test("test sum function", () => {
 	expect(sum(4, 4)).toEqual(8);
 });
 test("should ", () => {
-	expect(sum(5, 5)).toEqual(10);
+	expect(sum(5, 5)).toEqual(8);
 });
